@@ -10,4 +10,4 @@ Funkciniai reikalavimai:
 6. judinant objektus, turi būti pasirinkimas juos prilipinti prie kitų objektų arba grid’o (snap)
 7. aišku susikūrę svajonių kambarį, savo nuostabiu dizainu norime juo pasidalinti su draugais,
 todėl sudėtus objektus su jų parametrais reikia išsaugoti, ir vėliau atkurti. (New, save, load
-funkcionalumas)
+funkcionalumas )
